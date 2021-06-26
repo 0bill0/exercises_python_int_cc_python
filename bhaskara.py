@@ -31,6 +31,6 @@ if __name__ == "__main__":
 		print('esta equação não possui raízes reais')
 	else:
 		if b[1] == 0:
-			print('a raiz dupla desta equação é ',b[0])
+			print('a raiz dupla desta equação é',b[0])
 		else:
 			print('as raízes da equação são', str(b[0]) +' e', str(b[1]))
